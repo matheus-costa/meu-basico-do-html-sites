@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>minha mini lojinha</title>
+  <style>
+    body {
+         background-color: rgb(154, 95, 189); 
+         color:wheat;
+         font: normal 18pt Arial;
+    }
+  </style>
+</head>
+<body>
+  <H1>Meu Título</H1>
+  He He He Ha
+</body>
+</html>
